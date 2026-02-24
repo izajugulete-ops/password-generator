@@ -15,29 +15,3 @@ A desktop application designed to generate cryptographically strong passwords wi
 * **Language:** Python
 * **GUI Framework:** Tkinter (standard Python interface to the Tcl/Tk GUI toolkit)
 * **Security:** `secrets` module (designed for managing secrets such as passwords and security tokens)
-
-## 🚀 How to Run
-
-1.  **Prerequisites:** Ensure you have Python installed on your system.
-2.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/izajugulete-ops/password-generator.git](https://github.com/izajugulete-ops/password-generator.git)
-    ```
-3.  **Run the Application:**
-    ```bash
-    python password_generator.py
-    ```
-
-## 📂 Project Structure
-
-* `password_generator.py`: The main source code containing the GUI logic and generation algorithms.
-* `.gitignore`: Configured to exclude IDE settings and temporary Python files.
-
-## 🚧 Roadmap
-
-- [ ] Add a password strength meter (visual feedback).
-- [ ] Implement an option to save passwords to an encrypted local file.
-- [ ] Dark mode support for the UI.
-
----
-Developed as part of my personal portfolio to demonstrate GUI development and security-conscious programming in Python.
