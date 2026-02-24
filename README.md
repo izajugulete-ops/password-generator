@@ -1,8 +1,5 @@
 # 🔐 Secure Password Generator (Python GUI)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 A desktop application designed to generate cryptographically strong passwords with a customizable user interface. This tool allows users to define length and complexity requirements to ensure high-standard digital security.
 
 ## ✨ Features
